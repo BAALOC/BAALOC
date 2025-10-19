@@ -1,37 +1,27 @@
-# 👋 Привет, я Макар (BAALOC)!
+# 👋 Hi, I'm Makar (BAALOC)!
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&color=36BCF7&center=true&vCenter=true&width=520&lines=Software+Engineer;Python+%7C+C%2B%2B+%7C+Kotlin+Developer;Learning+never+stops)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&color=36BCF7&center=true&vCenter=true&width=520&lines=Software+Engineer;Python+%7C+C%2B%2B+%7C+Kotlin+Developer)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 О себе
-
-🔭 **Работаю над:** Интересными проектами на Python, C++ и Kotlin  
-🌱 **Изучаю:** Современные технологии разработки и алгоритмы  
-💡 **Интересуюсь:** Разработкой ПО, автоматизацией и инновациями  
-📫 **Связь:** [makarleonardov@gmail.com](mailto:makarleonardov@gmail.com)  
-⚡ **Факт:** Люблю решать сложные задачи и создавать качественный код!
-
----
-
-## 🛠️ Технологический стек
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Языки программирования
+### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### Фреймворки и библиотеки
+### Frameworks & Libraries
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-### Инструменты и технологии
+### Tools & Technologies
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -42,7 +32,7 @@
 
 ---
 
-## 📊 GitHub Статистика
+## 📊 GitHub Stats
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BAALOC&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -55,7 +45,7 @@
 
 ---
 
-## 🏆 GitHub Достижения
+## 🏆 Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BAALOC&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
@@ -63,7 +53,7 @@
 
 ---
 
-## 📈 График активности
+## 📈 Activity Graph
 
 <div align="center">
   
@@ -73,33 +63,23 @@
 
 ---
 
-## 🌟 Интересные проекты
+## 🌟 Projects
 
 <div align="center">
   <a href="https://github.com/BAALOC?tab=repositories">
-    <img src="https://img.shields.io/badge/Посмотреть_все_проекты-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/View_all_repositories-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
 ---
 
-## 📫 Связаться со мной
+## 📫 Contact
 
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:makarleonardov@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BAALOC)
 [![Profile Views](https://komarev.com/ghpvc/?username=BAALOC&color=blueviolet&style=for-the-badge)](https://github.com/BAALOC)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💭 Случайная цитата для разработчиков
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
